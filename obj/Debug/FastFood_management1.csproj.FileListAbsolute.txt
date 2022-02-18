@@ -1,0 +1,20 @@
+D:\C#\projects\management system\FastFood_management1\bin\Debug\FastFood_management1.exe.config
+D:\C#\projects\management system\FastFood_management1\bin\Debug\FastFood_management1.exe
+D:\C#\projects\management system\FastFood_management1\bin\Debug\FastFood_management1.pdb
+D:\C#\projects\management system\FastFood_management1\obj\Debug\FastFood_management1.csproj.AssemblyReference.cache
+D:\C#\projects\management system\FastFood_management1\obj\Debug\FastFood_management1.Form1.resources
+D:\C#\projects\management system\FastFood_management1\obj\Debug\FastFood_management1.Properties.Resources.resources
+D:\C#\projects\management system\FastFood_management1\obj\Debug\FastFood_management1.csproj.GenerateResource.cache
+D:\C#\projects\management system\FastFood_management1\obj\Debug\FastFood_management1.csproj.CoreCompileInputs.cache
+D:\C#\projects\management system\FastFood_management1\obj\Debug\FastFood_management1.exe
+D:\C#\projects\management system\FastFood_management1\obj\Debug\FastFood_management1.pdb
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\bin\Debug\FastFood_management1.exe.config
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\bin\Debug\FastFood_management1.exe
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\bin\Debug\FastFood_management1.pdb
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.csprojAssemblyReference.cache
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.Form1.resources
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.Properties.Resources.resources
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.csproj.GenerateResource.cache
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.csproj.CoreCompileInputs.cache
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.exe
+C:\Users\toshiba 3rd gen\Downloads\Compressed\C# zips\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.pdb
